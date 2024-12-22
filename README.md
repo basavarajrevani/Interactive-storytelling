@@ -29,7 +29,7 @@ ScriptInk is a modern web application built with React, TypeScript, and Vite tha
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone [https://github.com/basavarajrevani/Interactive-storytelling-.git]
 cd project
 ```
 
@@ -87,4 +87,4 @@ project/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Project Link: [https://github.com/yourusername/project-name]
+Project Link: [https://github.com/basavarajrevani/Interactive-storytelling-.git]
