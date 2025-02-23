@@ -1,4 +1,4 @@
-# ScriptInk - Interactive Story Platform
+# Interactive Story Platform
 
 ## Overview
 ScriptInk is a modern web application built with React, TypeScript, and Vite that provides an interactive platform for storytelling. The application features an immersive user interface with interactive story elements, dynamic content rendering.
